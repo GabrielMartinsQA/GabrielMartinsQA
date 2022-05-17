@@ -12,7 +12,7 @@
     <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="max-width: 100%;">
     <img align="center" alt="Rafa-Js" height="30" width="110" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;">
     <img align="center" alt="Rafa-Js" height="30" width="200" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="max-width: 100%;">
-    <br>
+    <br><br>
     <img align="center" alt="Rafa-Js" height="30" width="190" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
     <img align="center" alt="Rafa-Js" height="30" width="130" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="max-width: 100%;">
     <img align="center" alt="Rafa-Js" height="30" width="160" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" style="max-width: 100%;">
